@@ -16,3 +16,12 @@ $  ssh -i user user@35.225.196.111
 
 -	[linux-commands](https://github.com/adsoftsito/apis/blob/master/w2/linuxcommands.pdf)
 -	[vi-editor](https://github.com/adsoftsito/apis/blob/master/w2/vi-editor.pdf)
+
+# Semana 1 - Tareas semana 1
+-	Crear cuenta en [github](https://github.com) de preferencia con su cuenta institucional y activar [GitHub Student Pack](https://education.github.com/pack)
+-	Tomar curso [github for poets](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
+
+# Semana 2 - Actividades
+1. Realizar en python [HolaMundo](https://github.com/adsoftsito/python)
+2. Crear un repositorio:  python-tunombre-apellido
+3. Subir programa holamundo.py a repositorio
