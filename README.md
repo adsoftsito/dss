@@ -25,3 +25,7 @@ $  ssh -i user user@35.223.20.167
 1. Realizar en python [HolaMundo](https://github.com/adsoftsito/python)
 2. Crear un repositorio:  python-tunombre-apellido
 3. Subir programa holamundo.py a repositorio
+
+# Desarrollo Web y Conceptos de APIS
+1. [Conceptos](https://docs.google.com/presentation/d/1EAzaEWwT7eZvFAe7EpurZYLg7v225mt8fZJko_K2A6k/edit?usp=sharing)
+2. HTML, CSS, JavaScript[introduccion](https://docs.google.com/presentation/d/12jIpzR_-DansrQG9FDWXJ7RQbqwDCTY2fYR7aofg0-I/edit?usp=sharing)
